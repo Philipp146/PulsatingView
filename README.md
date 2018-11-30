@@ -1,1 +1,1 @@
-Little project to onboard Items in an App
+Pulsating View to onboard new features in your App
