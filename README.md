@@ -1,1 +1,1 @@
-Pulsating View to onboard new features in your App
+PulsatingView to onboard new features in your App
